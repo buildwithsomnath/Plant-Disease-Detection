@@ -13,6 +13,13 @@
 
 Detect plant diseases from leaf images and receive intelligent treatment, prevention, and fertilizer recommendations.
 
+For a detailed code-by-code explanation of the project, including the development process, technical decisions, implementation details, problems, debugging, and lessons learned, see:
+
+👉 **[PROJECT_JOURNAL.md](PROJECT_JOURNAL.md)**
+
+> **PROJECT_JOURNAL.md** — Detailed code-by-code understanding and development journey
+
+
 </div>
 
 ---

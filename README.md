@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection System
+# 🌿 Plant Disease Detection & Fertilizer Recommendation System
 
 <div align="center">
 

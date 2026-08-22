@@ -24,6 +24,15 @@ For a detailed code-by-code explanation of the project, including the developmen
 
 ---
 
+## 🎥 Complete System Demo
+
+Watch the complete system in action — from uploading a plant leaf image to disease prediction, confidence score, treatment/prevention recommendations, fertilizer guidance, and prediction history.
+
+<video src="./screenshots/PlantDiseaseDetection.mp4" controls width="100%"></video>
+
+
+---
+
 ## 📖 Overview
 
 Plant Disease Detection System is a full-stack AI application that combines **Deep Learning**, **Computer Vision**, and **Web Technologies** to identify plant diseases from leaf images.

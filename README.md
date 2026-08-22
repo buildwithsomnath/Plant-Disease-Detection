@@ -28,7 +28,7 @@ For a detailed code-by-code explanation of the project, including the developmen
 
 Watch the complete system in action — from uploading a plant leaf image to disease prediction, confidence score, treatment/prevention recommendations, fertilizer guidance, and prediction history.
 
-<video src="./screenshots/PlantDiseaseDetection.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/c9a22658-1487-4bd1-a0cc-2c4a18fd5279
 
 
 ---
